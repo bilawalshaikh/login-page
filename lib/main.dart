@@ -28,7 +28,7 @@ fontWeight: FontWeight.bold,
 
   )),
 ),
-      backgroundColor: Colors.white,
+      // backgroundColor: Colors.white,
     ),  
 
   body:  
